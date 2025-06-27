@@ -3,6 +3,12 @@ Country Countdown is a React Native quiz game where players test their geography
 
 This app is the first in a collection of geography games I hope to build and eventually combine into one interactive learning experience.
 
+<p align="center">
+  <img src="assets/SS1.PNG" alt="Game Screenshot 1" width="300"/>
+  <img src="assets/SS2.PNG" alt="Game Screenshot 2" width="300"/>
+</p>
+
+
 ## Features
 - 15-minute countdown timer
 - Real-time country data from the REST Countries API ( https://restcountries.com/ )
