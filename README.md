@@ -1,4 +1,4 @@
-# 🌍 Country Countdown
+# 🌍 Country Countdown 🌍
 Country Countdown is a React Native quiz game where players test their geography knowledge by naming as many countries as possible within 15 minutes. The game uses real-time data, stores the best score locally, and features a playful animated globe and custom fonts. 
 
 This app is the first in a collection of geography games I hope to build and eventually combine into one interactive learning experience.
